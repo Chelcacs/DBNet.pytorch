@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 tools/eval.py --model_path './output/DBNet_resnext50_FPN_DBHead_e20bs5_icdar2015/checkpoint/model_best.pth'
